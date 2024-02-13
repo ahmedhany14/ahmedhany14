@@ -132,10 +132,6 @@
 <br> 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhany14&theme=tokyonight_duo" alt="ahmedhany14" /></p>
-
-</details>
-  
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
