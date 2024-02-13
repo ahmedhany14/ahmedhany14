@@ -33,6 +33,9 @@
 	  &emsp; 
 	<a href="https://www.codechef.com/users/ahmedhany123"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp; 
+	<a href="https://www.kaggle.com/hanyjr"><img src="https://img.shields.io/badge/-Kaggel-FE7A16?style=plastic&logo=kaggel&logoColor=white" alt="Kaggel" width=6%/></a>
+	  &emsp; 
+
 </div>
 
 ## <img src="https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
