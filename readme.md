@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hany</h1>
 
-<h3 align="center">I'm a machine learning and data-sceince engineer.</h3>
+<h3 align="center">I'm a Machine Learning and Data-Science Engineer.</h3>
 
 <br>
 
