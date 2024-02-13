@@ -146,9 +146,20 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhany14&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmedhany14" height="230px"/>
 <br/>
 
+
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhany14&theme=tokyonight_duo" alt="ahmedhany14" /></p>
+
+</details>
+
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
