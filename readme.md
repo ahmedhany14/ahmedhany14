@@ -1,16 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer+%40noon;R%26D+Engineer+%40Coademy;3x+ACPC+Finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Hany</h1>
 
 
 <br>
 
 <p align="center"> 
-	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="Hany" target="_blank", width=46%/> 
-	</a>
 	<!-- 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
 		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/7oSkaaa" alt="Most Active Users" target="_blank" width=40%/> 
 	</a> -->
