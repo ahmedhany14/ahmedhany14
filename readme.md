@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hany</h1>
 
+<h3 align="center">I'm a machine learning and data-sceince engineer.</h3>
 
 <br>
 
@@ -16,6 +17,7 @@
 <img align="right" src="https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
+- :I’m currently learning machine learning and deep learning.
 - :school: I am a `Under Graduate` from the [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :trophy: 2x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
