@@ -18,7 +18,7 @@
 
 <br><br>
 - :I’m currently learning machine learning and deep learning.
-- :school: I am a `Under Graduate` from the [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
+- :school: I am an `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :trophy: 2x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
 <br>
