@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hany</h1>
 
-<h3 align="center">I'm a Machine Learning and Data-Science Engineer.</h3>
+<h3 align="center">I'm a DeepLearning anb Back-end Engineer.</h3>
 
 <br>
 
@@ -17,11 +17,11 @@
 <img align="right" src="https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :I’m currently learning machine learning and deep learning.
+- :I’m currently learning `deep learning` and `back-end.
 - :school: I am an `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
-- :trophy: 2x `ECPC` Finalist.
+- :trophy: 3x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
-- 💬 Ask me about MySql - scikit learn - pandas - seaborn - feature engineering.
+- 💬 Ask me about `MySql` - `TensorFlow` - `PyTourch` - `Node-Js`.
 - 🤝 I’m looking for an Internship or Part-Time Job.
 
 <br>
