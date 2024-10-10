@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hany</h1>
 
-<h3 align="center">I'm a DeepLearning anb Back-end Engineer.</h3>
+<h3 align="center">I'm a Deep-Learning anb Back-end Engineer.</h3>
 
 <br>
 
@@ -141,8 +141,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 
 <br> 
