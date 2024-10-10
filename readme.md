@@ -17,7 +17,7 @@
 <img align="right" src="https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :I’m currently learning `deep learning` and `back-end.
+- :I’m currently learning `deep learning` and `back-end`.
 - :school: I am an `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :trophy: 3x `ECPC` Finalist.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
@@ -72,6 +72,14 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%2314354C.svg?style=plastic&logo=javascript&logoColor=white%22">
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img alt="TypeScrpt" src="https://img.shields.io/badge/typescrip%20-%2314354C.svg?style=plastic&logo=typescrip&logoColor=white%22">
+  </a>
+
 </p>
 
 
@@ -91,8 +99,12 @@
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mongodb-%234479A1.svg?&style=plastic&logo=mongodb&logoColor=white"/></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/postgres-%234479A1.svg?&style=plastic&logo=postgres&logoColor=white"/></a>
+
 </p>
 
  ### <img src = "https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
