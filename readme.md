@@ -23,7 +23,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`.
 - 💬 Ask me about `MySql` - `TensorFlow` - `PyTourch` - `Node-Js`.
 - 🤝 I’m looking for an Internship or Part-Time Job.
-- [my cv](https://drive.google.com/file/d/1TbFMKldf9-iK76RklJv2VNyY5Paoz01x/view?usp=sharing)
+- [my cv](https://drive.google.com/file/d/1wZydut48ONlXukRm-96XaIC6Ms4fg-Lo/view?usp=sharing)
 <br>
 
 
